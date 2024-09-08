@@ -27,9 +27,7 @@ This code is a simple implementation of **Caesar Cipher**, a basic encryption te
 
 ### Example:
 - If you input `"Hello World"` with a key of `3`, the encryption will shift each letter by 3 positions:
-  - `"H"` becomes `"K"`, `"e"` becomes `"h"`, etc.
-  - The encrypted message might be `"Khoor Zruog"`.
-- Decrypting it with the same key shifts the letters back, restoring the original message: `"Hello World"`.
+  - "H" becomes "K", "e" becomes "h", etc.
+  - The encrypted message might be "Khoor Zruog".
+- Decrypting it with the same key shifts the letters back, restoring the original message: "Hello World".
 
-### Conclusion:
-This Caesar Cipher implementation is a simple and elegant way to illustrate basic encryption and decryption concepts. It demonstrates how messages can be hidden (encrypted) and later revealed (decrypted) using a shared secret (the key).
